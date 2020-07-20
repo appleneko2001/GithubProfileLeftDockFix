@@ -1,6 +1,10 @@
 # GithubProfileLeftDockFix
 Github profile left side fix by EZ way
  
+### Effect pictures
+![](https://raw.githubusercontent.com/appleneko2001/GithubProfileLeftDockFix/master/Picture_0.png)
+![](https://raw.githubusercontent.com/appleneko2001/GithubProfileLeftDockFix/master/Picture_1.png)
+ 
 ### How to apply fix
 
 1. Download [Stylus addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) ([For Chrome are this way](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)).
@@ -19,3 +23,5 @@ div.h-card.mt-4.mt-md-n5{
 }
 ```
 
+### Why you made this fix?
+   Because that makes me maddddd everytime when I see this

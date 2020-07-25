@@ -24,4 +24,5 @@ div.h-card.mt-4.mt-md-n5{
 ```
 
 ### Why you made this fix?
-   Because that makes me maddddd everytime when I see this
+   Because that makes me maddddd everytime when I see this, and I think other peoples feels bad when see this.
+But Github staffs didn't care about this issue. So you can apply this patch to fix this issue temporarily before Github staffs fixed this.

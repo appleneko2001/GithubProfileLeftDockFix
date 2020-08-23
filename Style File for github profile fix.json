@@ -9,7 +9,7 @@
 		"name": "github.com",
 		"sections": [
 			{
-				"code": "div.d-inline-block.col-2.col-md-12.mr-3.mr-md-0.flex-shrink-0 {\n    z-index: 2 !important;\n} \ndiv.h-card.mt-4.mt-md-n5{\n    margin-top: 32px !important;\n}",
+				"code": "div.d-inline-block.col-2.col-md-12.mr-3.mr-md-0.flex-shrink-0 {\n    z-index: 2 !important;\n} \ndiv.h-card.mt-md-n5{\n    margin-top: 32px !important;\n}",
 				"urlPrefixes": [
 					"https://github.com/*",
 					""

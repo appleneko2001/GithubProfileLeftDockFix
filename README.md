@@ -17,12 +17,11 @@ here:
 ```css
 div.d-inline-block.col-2.col-md-12.mr-3.mr-md-0.flex-shrink-0 {
     z-index: 2 !important;
-} 
-div.h-card.mt-4.mt-md-n5{
-    margin-top: 32px !important;
+}
+div.js-profile-editable-replace {
+    margin-top: 64px !important;
 }
 ```
 
 ### Why you made this fix?
-   Because that makes me maddddd everytime when I see this, and I think other peoples feels bad when see this.
-But Github staffs didn't care about this issue. So you can apply this patch to fix this issue temporarily before Github staffs fixed this.
+   Because that makes me unhappy everytime, when I see this confused design, and I think others could have same feels.

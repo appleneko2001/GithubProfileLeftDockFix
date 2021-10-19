@@ -1,24 +1,22 @@
 [
-	{
-		"enabled": true,
-		"updateUrl": null,
-		"md5Url": null,
-		"url": null,
-		"originalMd5": null,
-		"installDate": 1595221648436,
-		"name": "github.com",
-		"sections": [
-			{
-				"code": "div.d-inline-block.col-2.col-md-12.mr-3.mr-md-0.flex-shrink-0 {\n    z-index: 2 !important;\n} \ndiv.h-card.mt-md-n5{\n    margin-top: 32px !important;\n}",
-				"urlPrefixes": [
-					"https://github.com/*",
-					""
-				]
-			}
-		],
-		"updateDate": 1595222173170,
-		"_id": "c92c0731-ab8a-4cc1-8f11-3671d402a8d6",
-		"_rev": 1595222884123,
-		"id": 1
-	}
+  {
+    "enabled": true,
+    "updateUrl": null,
+    "url": null,
+    "installDate": 1595221648436,
+    "name": "github.com",
+    "sections": [
+      {
+        "code": "div.d-inline-block.col-2.col-md-12.mr-3.mr-md-0.flex-shrink-0 {\n    z-index: 2 !important;\n}\ndiv.js-profile-editable-replace {\n    margin-top: 64px !important;\n}",
+        "urlPrefixes": [
+          "https://github.com/",
+          ""
+        ]
+      }
+    ],
+    "updateDate": 1634632284927,
+    "_id": "c92c0731-ab8a-4cc1-8f11-3671d402a8d6",
+    "_rev": 1634632284927,
+    "id": 1
+  }
 ]
